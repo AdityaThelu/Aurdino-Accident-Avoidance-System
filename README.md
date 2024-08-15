@@ -25,6 +25,13 @@ to the ultrasonic sensors and finally bread board to the aurdino kit.
 This project will make easy calculation of a distance between one 
 vehicle and another vehicle for the driver
 
+ You can find [The List of Components required](https://github.com/AdityaThelu/Aurdino-Accident-Avoidance-System/blob/main/Components%20List.csv) for the simulation.
+
+ The [Circuit Diagram](https://github.com/AdityaThelu/Aurdino-Accident-Avoidance-System/blob/main/Circuit%20Diagram.png) of the Project is 
+
+![App Screenshot](https://github.com/AdityaThelu/Aurdino-Accident-Avoidance-System/blob/main/Circuit%20Diagram.png)
+
+The Schematic view of the Layout can be found [here](https://github.com/AdityaThelu/Aurdino-Accident-Avoidance-System/blob/main/Schematic%20View.pdf).
 ## Authors
 
 - [@AdityaThelu](https://www.github.com/AdityaThelu)
